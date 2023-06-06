@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mijick/PopupView.git",
+      "state" : {
+        "revision" : "8ae288c6834e5743777f62f61c240ee10a2ca82d",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 2
+}
